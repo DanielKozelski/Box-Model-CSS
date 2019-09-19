@@ -1,0 +1,30 @@
+body{
+    border: 10px solid red;
+    margin:0;
+    
+}
+div{
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.red{
+    background-color: brown;
+    border: 10px solid black;
+}
+
+.yellow{
+    background-color: yellow;
+    border: 10px solid black;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.green{
+    background-color: green;
+    border: 10px solid black;
+    margin-left: 400px;
+    text-align: right;
+}
